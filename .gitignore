@@ -1,3 +1,5 @@
 __pycache__/
 onnx_data/*
+!onnx_data/*.md
 pth_data/*
+!pth_data/*.md
